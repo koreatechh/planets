@@ -14,13 +14,17 @@ Markdown | Less | Pretty
 - Or minuses
 + Or pluses
 
+
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s); ```
 
+
 > Blockquotes are very handy in email to emulate reply text.
 
+
 ## Line Breaks
+
 
 <dl>
   <dt>Definition list</dt>
@@ -29,6 +33,7 @@ alert(s); ```
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
+
 
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
