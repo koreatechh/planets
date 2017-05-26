@@ -18,7 +18,7 @@ Markdown | Less | Pretty
 var s = "JavaScript syntax highlighting";
 alert(s); ```
 
-> Blockquotes are very handy in email to emulate reply text.
+>Blockquotes are very handy in email to emulate reply text.
 
 ## Line Breaks
 
