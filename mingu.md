@@ -28,8 +28,8 @@ print s
 |------|:----------:|-------:|
 |mingu |2014136001  |computer|
 
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png"Logo Title Text 1")
+Inline style: 
+![test](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png"Logo Title Text 1")
 
 
 > hello I'm mingu yeap
