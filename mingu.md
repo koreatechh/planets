@@ -4,8 +4,8 @@ name : Kang mingu
 
 github id : MinguKang9552
 
-#Korea baseball 
-##samsung vs kt
+# Korea baseball 
+## samsung vs kt
 
 Baseball Samsung**Ace woogyumin** preceded triumph with the first time this season kt
 
@@ -17,7 +17,7 @@ Baseball Samsung**Ace woogyumin** preceded triumph with the first time this seas
 + woogyumin
 ~~mingukang~~
 
-[더 자세한 내용 link](htttp:www.naver.com)
+[더 자세한 내용 link](https://www.naver.com)
 
 ```python
 s = "Python syntax highlighting"
@@ -30,7 +30,7 @@ print s
 
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png"Logo Title Text 1")
+![alt text] (https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png"Logo Title Text 1")
 
 
 > hello I'm mingu yeap
