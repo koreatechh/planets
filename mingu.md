@@ -7,7 +7,7 @@ github id : MinguKang9552
 #Korea baseball 
 ##samsung vs kt
 
-Baseball Samsung** Ace woogyumin** preceded triumph with the first time this season kt
+Baseball Samsung**Ace woogyumin** preceded triumph with the first time this season kt
 
 1. score
 * 10-0
