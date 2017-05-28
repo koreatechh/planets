@@ -17,7 +17,9 @@ Baseball Samsung**Ace woogyumin** preceded triumph with the first time this seas
 + woogyumin
 ~~mingukang~~
 
-[더 자세한 내용 link](https://www.naver.com)
+[inline style  link](https://www.naver.com)
+[reference style link][Arbitrary case-intensitive reference text]
+
 
 ```python
 s = "Python syntax highlighting"
