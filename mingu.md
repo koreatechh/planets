@@ -18,8 +18,9 @@ Baseball Samsung**Ace woogyumin** preceded triumph with the first time this seas
 ~~mingukang~~
 
 [inline style  link](https://www.naver.com)
-[reference style link][A]
-[A]: https://www.naver.com
+
+[reference style link][A] 
+[A]:https://www.naver.com
 
 
 ```python
