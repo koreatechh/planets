@@ -31,7 +31,8 @@ print s
 |ChanKyu Park | 27 |2011136051|
 
 **(8)**
-Inline style:
+Image:
+
 ![test](https://github.com/koreatechh/planets/blob/master/koreatech.png)
 
 **(9)**
