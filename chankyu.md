@@ -35,7 +35,7 @@ Inline style:
 ![test](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 Inline style:
-![test](https://github.com/koreatechh/planets/blob/master/koreatech.gif)
+![test](https://github.com/koreatechh/planets/blob/master/koreatech.png)
 
 **(9)**
 Horizontal Rule Test
