@@ -1,27 +1,20 @@
 team 2
-
-name : ChanKyu Park 
-
+name : ChanKyu Park
 github id : koreatechh
+----------------------------------------------------------------
+# Header
 
-# Koreatech
-## samsung vs kt
+**Emphasis Test**
 
-Baseball Samsung**Ace woogyumin** preceded triumph with the first time this season kt
+* List1
+- List2
++ List3
 
-1. score
-* 10-0
-2. player
-* woogyumin
-3. pitcher
-+ woogyumin
-~~mingukang~~
-
-[inline style  link](https://www.naver.com)
+[inline style  link](https://cse.koreatech.ac.kr)
 
 [reference][A]
 
-[A]: https://www.naver.com
+[A]: https://www.koreatech.ac.kr
 
 
 ```python
@@ -29,28 +22,24 @@ s = "Python syntax highlighting"
 print s
 ``` 
 
-| name | student id | major  |
-|------|:----------:|-------:|
-|mingu |2014136001  |computer|
+| Tables | Are | Cool |
+| ---------------- |:----------------:| ---------:|
+| col 3 is | right-aligned | $1600 |
+| col 2 is | centered | $12 |
+| zebra stripes | are neat | $1 |
 
 Inline style: 
 ![test](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
+Horizontal Rule Test
+***
 
 > hello I'm mingu yeap
 
-Quote break.
-
-Three or more...
-
----
-
-Hyphens
-
-***
-
 <dl>
-<dt>Definition list</dt>
+  <dt>Inline HTML Test</dt>
+  <dd>Is something people use sometimes.</dd>
+</dl>
 
 
 
