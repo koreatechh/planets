@@ -4,7 +4,7 @@ team 2,  ChanKyu Park,  koreatechh(<-githubid)
 # Header
 
 **(2)**
- **Emphasis Test**
+ **empasis test**.
 
 **(3)**
 * List1
@@ -51,9 +51,6 @@ Horizontal Rule Test
 **(12)**
 
 [![VIDEO](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Y4F2roIiqN4)
-
-**(13)**
-**asterisks and _underscores_**.
 
 
 
