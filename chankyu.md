@@ -4,7 +4,7 @@ team 2,  ChanKyu Park,  koreatechh(<-githubid)
 # Header
 
 **(2)**
- **empasis _test_**.
+ **empasis _test_**. and ~~Scratch.~~
 
 **(3)**
 * List1
