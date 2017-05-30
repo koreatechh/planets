@@ -12,10 +12,10 @@ team 2,  ChanKyu Park,  koreatechh(<-githubid)
 + List3
 
 **(4)**
-[inline style  link](https://cse.koreatech.ac.kr)
+[CSE link(inline style)](https://cse.koreatech.ac.kr)
 
 **(5)**
-[reference][A]
+[Koreatech link(reference style)][A]
 
 [A]: https://www.koreatech.ac.kr
 
