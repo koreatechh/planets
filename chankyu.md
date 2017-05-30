@@ -25,10 +25,10 @@ s = "Code and Syntax highlighting"
 print s
 ``` 
 **(7)**
-Name | Age | ID
---- | --- | ---
-*ChanKyuPark* | `27` | **2011136051**
---- | --- | ---
+
+| name | Age | id |
+|------|:----------:|-------:|
+|ChanKyu Park | 27 |2011136051|
 
 **(8)**
 Inline style: 
