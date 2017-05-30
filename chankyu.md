@@ -31,9 +31,6 @@ print s
 |ChanKyu Park | 27 |2011136051|
 
 **(8)**
-Inline style: 
-![test](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
 Inline style:
 ![test](https://github.com/koreatechh/planets/blob/master/koreatech.png)
 
