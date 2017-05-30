@@ -25,10 +25,10 @@ s = "Code and Syntax highlighting"
 print s
 ``` 
 **(7)**
-| Name | ID | Grade |
-| ---------------- |:----------------:| ---------:|
-| ChanKyuPark | 2011136051 | 4 |
-| ---------------- |
+Name | Age | ID
+--- | --- | ---
+*ChanKyuPark* | `27` | **2011136051**
+--- | --- | ---
 
 **(8)**
 Inline style: 
@@ -46,6 +46,8 @@ Horizontal Rule Test
   <dt>Inline HTML Test</dt>
   <dd>Is something people use sometimes.</dd>
 </dl>
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Y4F2roIiqN4)
 
 
 
