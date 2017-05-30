@@ -1,45 +1,55 @@
-team 2\n
-name : ChanKyu Park\n
-github id : koreatechh\n
-----------------------------------------------------------------
+team 2,  ChanKyu Park,  koreatechh(<-githubid)
+| ---------------- |:----------------:| ---------:|
+
+**(1)**
 # Header
-
-**Emphasis Test**
-
+| ---------------- |:----------------:| ---------:|
+**(2)**
+ **Emphasis Test**
+| ---------------- |:----------------:| ---------:|
+**(3)**
 * List1
 - List2
 + List3
-
+| ---------------- |:----------------:| ---------:|
+**(4)**
 [inline style  link](https://cse.koreatech.ac.kr)
-
+| ---------------- |:----------------:| ---------:|
+**(5)**
 [reference][A]
 
 [A]: https://www.koreatech.ac.kr
-
-
+| ---------------- |:----------------:| ---------:|
+**(6)**
 ```python
-s = "Python syntax highlighting"
+s = "Code and Syntax highlighting"
 print s
 ``` 
-
-| Tables | Are | Cool |
 | ---------------- |:----------------:| ---------:|
-| col 3 is | right-aligned | $1600 |
-| col 2 is | centered | $12 |
-| zebra stripes | are neat | $1 |
+**(7)**
+| Name | ID | Grade |
+| ---------------- |:----------------:| ---------:|
+| ChanKyuPark | 2011136051 | 4 |
+| ---------------- |
 
+| ---------------- |:----------------:| ---------:|
+**(8)**
 Inline style: 
 ![test](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
+| ---------------- |:----------------:| ---------:|
+**(9)**
 Horizontal Rule Test
 ***
-
+| ---------------- |:----------------:| ---------:|
+**(10)**
 > Blockquotes Test
-
+| ---------------- |:----------------:| ---------:|
+**(11)**
 <dl>
   <dt>Inline HTML Test</dt>
   <dd>Is something people use sometimes.</dd>
 </dl>
+| ---------------- |:----------------:| ---------:|
 
 
 
