@@ -1,6 +1,6 @@
-team 2
-name : ChanKyu Park
-github id : koreatechh
+team 2\n
+name : ChanKyu Park\n
+github id : koreatechh\n
 ----------------------------------------------------------------
 # Header
 
@@ -34,7 +34,7 @@ Inline style:
 Horizontal Rule Test
 ***
 
-> hello I'm mingu yeap
+> Blockquotes Test
 
 <dl>
   <dt>Inline HTML Test</dt>
