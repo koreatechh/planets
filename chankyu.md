@@ -48,7 +48,8 @@ Horizontal Rule Test
   <dd>Is something people use sometimes.</dd>
 </dl>
 
-**(12)**VIDEO
+**(12)**
+VIDEO
 
 [![KOREATECH PROMOTION](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Y4F2roIiqN4)
 
