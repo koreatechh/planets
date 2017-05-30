@@ -26,13 +26,16 @@ print s
 ``` 
 **(7)**
 
-| name | Age | id |
+| Name | Age | Student id |
 |------|:----------:|-------:|
 |ChanKyu Park | 27 |2011136051|
 
 **(8)**
 Inline style: 
 ![test](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Inline style:
+![test](https://github.com/koreatechh/planets/blob/master/koreatech.gif)
 
 **(9)**
 Horizontal Rule Test
@@ -47,7 +50,7 @@ Horizontal Rule Test
   <dd>Is something people use sometimes.</dd>
 </dl>
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Y4F2roIiqN4)
+[![VIDEO](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Y4F2roIiqN4)
 
 
 
