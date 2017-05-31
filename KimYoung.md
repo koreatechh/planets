@@ -49,4 +49,4 @@ alert(s);
 -----
 10. Image
 
-![test]()
+![test](https://github.com/young00/EXO/blob/master/EXO.png "EXO")
