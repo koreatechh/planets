@@ -1,6 +1,6 @@
 # title
-##younkipark
-###group2
+## younkipark
+### group2
 #박윤기
 
 - Or minuses
@@ -11,11 +11,13 @@
 
 >Hello world
 
-[www.google.co.kr](www.google.co.kr)
+[cse link(inline)](https://cse.koreatech.ac.kr)
 
-![search](www.google.com)
+[Koreatech link(reference)][A]
 
-![alt text](http://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+[A]: https://www.koreatech.ac.kr
+
+![test](https://github.com/koreatechh/planets/blob/master/koreatech.png)
 
 표|표|표|
 ---|---|---|
