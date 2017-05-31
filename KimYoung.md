@@ -37,11 +37,10 @@ alert(s);
 -----
 8. Table
 
-| Tables        | Are           | Cool  |
+| Name          | Student ID    | Major |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Kim Young     | 2016136021    |  CSE  |
+
 -----
 9. Blockquote
 
